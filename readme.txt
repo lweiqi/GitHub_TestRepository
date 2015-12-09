@@ -6,4 +6,4 @@ append GPL.
 
 four LICENSE.
 
-git tracks changs.
+git tracks changs of files.
