@@ -1,4 +1,4 @@
-this is readme.
+this is readme.write for weiqi.
 
 Git is free software.
 
