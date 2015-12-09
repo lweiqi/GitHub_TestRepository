@@ -5,3 +5,5 @@ Git is free software.
 append GPL.
 
 four LICENSE.
+
+git tracks changs.
