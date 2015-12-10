@@ -11,4 +11,7 @@ git tracks changs of files.
 add new branch Bra_1. test...
 
 the master.
+
+add new branch Bra_2. test...
+
 the master Log2.
